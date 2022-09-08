@@ -1,0 +1,20 @@
+{
+  "name": "three-variants-of-asynchronous-code-in",
+  "version": "1.0.0",
+  "description": "Source code the article series about how to program asynchronous code in modern JavaScript. Link to part 1: https://www.ribomation.se/blog/asynkron-bearbetning-i-javascript-del-1/",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribomation/three-variants-of-asynchronous-code-in-js.git"
+  },
+  "keywords": ["javascript", "nodej", "call-back", "promise", "async"],
+  "author": "Jens Riboe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ribomation/three-variants-of-asynchronous-code-in-js/issues"
+  },
+  "homepage": "https://github.com/ribomation/three-variants-of-asynchronous-code-in-js#readme"
+}
