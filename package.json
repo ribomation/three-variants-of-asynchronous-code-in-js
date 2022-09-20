@@ -1,7 +1,7 @@
 {
   "name": "three-variants-of-asynchronous-code-in",
   "version": "1.0.0",
-  "description": "Source code the article series about how to program asynchronous code in modern JavaScript. Link to part 1: https://www.ribomation.se/blog/asynkron-bearbetning-i-javascript-del-1/",
+  "description": "Source code the article series about how to program asynchronous code in modern JavaScript",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
